@@ -38,22 +38,35 @@
 
 ## *Computer Vision*
 
-| **Name** | **Repository** |  **YouTube** *(Click to view)* |
-|:----------------|:--------------------:|:-----------:|
-| **Name** | [![GitHub](https://badges.aleen42.com/src/github.svg)](computer_vision/) | [![YouTube Thumbnail](https://badges.aleen42.com/src/youtube.svg)]() |
+
+| **Name**                                    | **Repository**                                    | **YouTube** *(Click to view)* |
+| ------------------------------------------- | ------------------------------------------------- | ----------------------------- |
+| **Real-time Poker Hand Recognition System** | [![GitHub](https://badges.aleen42.com/src/github.svg)](computer_vision/playing_cards_detection) | [![YouTube Thumbnail](https://badges.aleen42.com/src/youtube.svg)]()         |
 
 
 ## 🤖 *AI Agents*
 
 
+| **Name**                         | **Repository**                            | **YouTube** *(Click to view)* |
+| -------------------------------- | ----------------------------------------- | ----------------------------- |
+| **AI Blog-to-Podcast Converter** | [![GitHub](https://badges.aleen42.com/src/github.svg)](ai_agents/blog_to_podcast_agent) | [![YouTube Thumbnail](https://badges.aleen42.com/src/youtube.svg)]()         |
+| **AI Travel Agent**              | [![GitHub](https://badges.aleen42.com/src/github.svg)](ai_agents/travel_agent)          | [![YouTube Thumbnail](https://badges.aleen42.com/src/youtube.svg)]()         |
 
 
 ## 📝 *RAG*
 
 
+| **Name**                                | **Repository**                            | **YouTube** *(Click to view)* |
+| --------------------------------------- | ----------------------------------------- | ----------------------------- |
+| **Agentic RAG Agent (Local Execution)** | [![GitHub](https://badges.aleen42.com/src/github.svg)](rag/agentic_rag_embedding_gemma) | [![YouTube Thumbnail](https://badges.aleen42.com/src/youtube.svg)]()         |
+| **Agentic RAG Knowledge Assistant**     | [![GitHub](https://badges.aleen42.com/src/github.svg)](rag/agentic_rag_gpt5/)           | [![YouTube Thumbnail](https://badges.aleen42.com/src/youtube.svg)]()         |
 
 
-## 📖 *LLM Apps*
+## 📖 *NLP*
 
+
+| **Name**                                | **Repository**                           | **YouTube** *(Click to view)* |
+| --------------------------------------- | ---------------------------------------- | ----------------------------- |
+| **Agentic RAG Agent (Local Execution)** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ACDiTGC1zl3V1wWctdJCJy265yb68Zpc?usp=sharing) | [![YouTube Thumbnail](https://badges.aleen42.com/src/youtube.svg)]()         |
 
 
