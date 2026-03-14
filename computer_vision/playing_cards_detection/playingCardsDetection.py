@@ -18,7 +18,7 @@ classnames = [
     "Jc","Jd","Jh","Js","Kc","Kd","Kh","Ks","Qc","Qd","Qh","Qs"
 ]
 
-model = YOLO('yolov8m_synthetic.pt') 
+model = YOLO('yolov8m.pt') 
 
 print(f"Python-{torch.__version__}")
 if torch.cuda.is_available():

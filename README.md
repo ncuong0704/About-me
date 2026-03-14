@@ -67,6 +67,8 @@
 
 | **Name**                                | **Repository**                           | **YouTube** *(Click to view)* |
 | --------------------------------------- | ---------------------------------------- | ----------------------------- |
-| **Agentic RAG Agent (Local Execution)** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ACDiTGC1zl3V1wWctdJCJy265yb68Zpc?usp=sharing) | [![YouTube Thumbnail](https://badges.aleen42.com/src/youtube.svg)]()         |
+| **Vietnamese Emotion Recognition System - Python, Scikit-learn, SVM, NLP** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ACDiTGC1zl3V1wWctdJCJy265yb68Zpc?usp=sharing) | [![YouTube Thumbnail](https://badges.aleen42.com/src/youtube.svg)]()         |
+| **Airbnb Price Prediction - Python, Scikit-learn, CatBoost** | [![GitHub](https://badges.aleen42.com/src/github.svg)](nlp/End-to-End-Airbnb-Price-Prediction/) | [![YouTube Thumbnail](https://badges.aleen42.com/src/youtube.svg)]()         |
+| **Text Classification Embedding Vector Database** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19dM4Ii8vgtHsvM7m5DxDsRQm2NjmEaft?usp=sharing) | [![YouTube Thumbnail](https://badges.aleen42.com/src/youtube.svg)]()         |
 
 
