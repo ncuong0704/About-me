@@ -5,26 +5,25 @@ from agno.knowledge.knowledge import Knowledge
 from agno.models.ollama import Ollama
 from agno.vectordb.lancedb import LanceDb, SearchType
 
-# Page configuration
 st.set_page_config(
     page_title="Agentic RAG with Google's EmbeddingGemma",
     page_icon="🔥",
     layout="wide"
 )
 
-@st.cache_resource
+@st.cache_resource # Cache resource để tránh reload lại knowledge base
 def load_knowledge_base():
-    knowledge_base = Knowledge(
-        vector_db=LanceDb(
-            table_name="recipes",
-            uri="tmp/lancedb",
-            search_type=SearchType.vector,
-            embedder=OllamaEmbedder(id="embeddinggemma:latest", dimensions=768),
+    knowledge_base = Knowledge( # Nơi lưu trữ các tài liệu
+        vector_db=LanceDb( # Nơi lưu trữ các vector embeddings
+            table_name="recipes", # Tên bảng
+            uri="tmp/lancedb", # Đường dẫn đến file lancedb
+            search_type=SearchType.vector, # Loại tìm kiếm
+            embedder=OllamaEmbedder(id="embeddinggemma:latest", dimensions=768), # Khởi tạo embedder
         ),
     )
-    return knowledge_base
+    return knowledge_base # Trả về knowledge base
 
-# Initialize URLs in session state
+# Khởi tạo URLs trong session state
 if 'urls' not in st.session_state:
     st.session_state.urls = []
 if 'urls_loaded' not in st.session_state:
@@ -38,20 +37,21 @@ for url in st.session_state.urls:
         kb.add_content(url=url)
         st.session_state.urls_loaded.add(url)
 
-agent = Agent(
-    model=Ollama(id="llama3.2:latest"),
-    knowledge=kb,
-    instructions=[
+
+agent = Agent( # Khởi tạo agent
+    model=Ollama(id="llama3.2:latest"), # Khởi tạo model
+    knowledge=kb, # Knowledge base
+    instructions=[ # Các hướng dẫn cho agent
         "Search the knowledge base for relevant information and base your answers on it.",
         "Be clear, and generate well-structured answers.",
         "Use clear headings, bullet points, or numbered lists where appropriate.",
     ],
-    search_knowledge=True,
+    search_knowledge=True, # Cho phép agent tìm kiếm trong knowledge base
     debug_mode=False,
-    markdown=True,
+    markdown=True, # Cho phép agent trả về câu trả lời dưới dạng markdown
 )
 
-# Sidebar for adding knowledge sources
+# Sidebar để thêm các tài liệu
 with st.sidebar:
     col1, col2, col3 = st.columns(3)
     with col1:
@@ -112,9 +112,9 @@ if st.button("🚀 Get Answer", type="primary"):
             try:
                 response = ""
                 resp_container = st.empty()
-                gen = agent.run(query, stream=True)
+                gen = agent.run(query, stream=True) # Chạy agent, stream=True để hiển thị câu trả lời từng phần
                 for resp_chunk in gen:
-                    # Display response
+                    # Hiển thị câu trả lời
                     if resp_chunk.content is not None:
                         response += resp_chunk.content
                         resp_container.markdown(response)

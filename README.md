@@ -41,7 +41,10 @@
 
 | **Name**                                    | **Repository**                                    | 
 | ------------------------------------------- | ------------------------------------------------- | 
-| **Real-time Poker Hand Recognition System** | [![GitHub](https://badges.aleen42.com/src/github.svg)](computer_vision/playing_cards_detection) |
+| **Real-time Poker Hand Recognition System** | [![GitHub](https://badges.aleen42.com/src/github.svg)](object_detection/playing_cards_detection) |
+| **Real-time PPE Detection** | [![GitHub](https://badges.aleen42.com/src/github.svg)](object_detection/construction_site_safety) |
+| **Real-time Car Counter** | [![GitHub](https://badges.aleen42.com/src/github.svg)](object_detection/car_counter) |
+| **Real-time People Counter** | [![GitHub](https://badges.aleen42.com/src/github.svg)](object_detection/people_counter) |
 
 
 ## 🤖 *AI Agents*

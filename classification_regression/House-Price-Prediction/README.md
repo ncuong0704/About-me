@@ -47,3 +47,6 @@ PTRATIO: Tỷ lệ học sinh / giáo viên
 B: Chỉ số liên quan đến tỷ lệ người da đen trong khu vực
 
 LSTAT: Tỷ lệ dân số thu nhập thấp
+
+
+## 
