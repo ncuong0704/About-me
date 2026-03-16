@@ -62,7 +62,7 @@
 | **Agentic RAG Knowledge Assistant**     | [![GitHub](https://badges.aleen42.com/src/github.svg)](rag/agentic_rag_gpt5/)           |
 
 
-## 📖 *Classification*
+## 📖 *Classification/Regression*
 
 
 | **Name**                                | **Repository**                           | 
@@ -70,6 +70,7 @@
 | **Vietnamese Emotion Recognition System - Python, Scikit-learn, SVM, NLP** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ACDiTGC1zl3V1wWctdJCJy265yb68Zpc?usp=sharing) |
 | **Airbnb Price Prediction - Python, Scikit-learn, CatBoost** | [![GitHub](https://badges.aleen42.com/src/github.svg)](nlp/End-to-End-Airbnb-Price-Prediction/) |
 | **Text Classification Embedding Vector Database** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19dM4Ii8vgtHsvM7m5DxDsRQm2NjmEaft?usp=sharing) |
+| **House Price Prediction** | [![GitHub](https://badges.aleen42.com/src/github.svg)](classification_regression/House-Price-Prediction) |
 
 
 ## 📖 *Web Scraping*

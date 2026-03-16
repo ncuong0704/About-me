@@ -1,0 +1,9 @@
+Flask
+pandas
+numpy
+matplotlib
+scikit-learn
+catboost
+gunicorn
+ydata_profiling
+lazypredict
