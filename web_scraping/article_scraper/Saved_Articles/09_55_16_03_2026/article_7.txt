@@ -1,0 +1,39 @@
+Title: The environmental cost of datacentres is rising. Is it time to quit AI?
+
+
+
+
+As the QuitGPT movement gains momentum, should people concerned about the environmental impacts of AI consider opting out?
+Change by degrees offers life hacks and sustainable living tips each Saturday to help reduce your household’s carbon footprint
+Got a question or tip for reducing household emissions? Email us at changebydegrees@theguardian.com
+It’s only a few years on from the release of ChatGPT but the race to plug artificial intelligence into everything has sparked a surge in datacentres, with escalating environmental costs.
+Globally, datacentre power demand is growing four times faster than all other sectors, according to the International Energy Agency, and is on track to exceed Japan’s electricity use by 2030.
+In Australia, the energy market operator expects datacentre energy demand to triple within five years, surpassing the electricity used by the nation’s fleet of electric vehicles by 2030. Authorities also anticipate significant demand on drinking water supplies.
+As the QuitGPT movement – a boycott of AI over its use for surveillance and weapons – gathers steam, should people concerned about AI’s environmental impacts also consider opting out?
+There are varying estimates but most studies say generative AI models – which generate text, images and video – consume “orders of magnitude” more energy than traditional computing methods.
+Some estimates suggest it’s five times more energy, others say it could be significantly higher. Much depends on the specific model or type of query.
+Prof Jeannie Paterson, co-director of the Centre for AI and Digital Ethics at the University of Melbourne, says part of the problem is the limited transparency from tech companies about the energy, water and emissions impacts of AI and datacentres.
+“But it’s clear that training models and running datacentres is an energy intensive task”, she says.
+“Consumer software that generates text, images and videos are uniquely energy inefficient,” says Ketan Joshi, an Oslo-based climate analyst associated with the Australia Institute, due to the “vast datasets and computational strain of pattern-matching that happens underneath the hood”.
+Asking an AI chatbot a question consumes a great deal more energy than finding the answer via simple web search or calculator. It adds extra demand for no good reason, he says, a bit like driving to the shops in an SUV instead of riding your bike.
+“You might still get the shopping done, and that single trip alone may not even look all that bad in terms of cost or emissions, but what happens when that’s all of your trips, and when all of society starts doing this?”
+One study published in the journal Patterns estimates AI’s global carbon footprint as 32.6 to 79.7m tonnes of CO2 emissions in 2025, and its water use as 312.5 to 764.6bn litres – similar to the global consumption of bottled water.
+In Australia, the growth of datacentres for processing and storing AI data is forecast to slow the energy transition, grow emissions and increase power costs for consumers.
+“That’s a lot of energy demand for unclear or small societal benefit,” Joshi says. “Compare that to the global benefit of video-calling technology, which has reduced flights and enabled communication during the pandemic.”
+AI tools are becoming embedded in workplace and educational software, and in chatbots used by banks and local governments. Increasingly, generative AI is being rolled out in supermarket self-checkouts, in facial recognition at hardware stores and for transcribing doctors’ notes.
+“We’re becoming immersed in this technology,” Paterson says. “It’s really hard to avoid.
+“But we still have a chance to express our views about what and how we want AI to be used.”
+There are many small ways to limit use – such as saving energy by switching off lights or appliances. People can unsubscribe from AI platforms, exclude AI results from search (for example, by adding “-AI” to the end of a search query) or avoid using it for unnecessary or energy-intensive tasks such as text-to-video prompts, or AI-generated images for celebrations or work presentations.
+“Meta, Google and Microsoft have all baked [generative AI] deep into their systems,” Joshi says. “I see this all as very much part of the tactic of trying to embed these systems into society and instil dependency in a fashion similar to the growth of single-use plastics in the 1970s.”
+Opting out can be a “meaningful act of resistance”, Joshi says. “It’s partly about not creating that energy demand but mostly about being part of broad collective action against [a] corrosive, harmful industry.”
+Consumer boycotts can be powerful, he says, but he is disheartened by QuitGPT’s funnelling of users from one platform to another, rather than quitting AI entirely. QuitGPT has been encouraging users to cancel ChatGPT, while promoting the use of Anthropic’s Claude. It feels like a “cynical exploitation” of widespread opposition to AI, he says.
+Datacentres – rapidly growing in number and size – are the physical embodiment of the AI boom. There are growing calls for the industry to be held accountable for its environmental impacts.
+A coalition of energy and environment groups, including the Clean Energy Council, Electrical Trades Union, Australian Conservation Foundation (ACF) and Climate Energy Finance, have proposed a set of “public interest principles for datacentres” that include investing in new renewable energy and using water responsibly.
+“If you want to build a datacentre, you should have to build the renewables and water recycling to power it,” the ACF chief executive, Adam Bandt, says. “Big tech corporations should be forced to do their fair share so they don’t drain our resources.”
+Along with energy, water and emissions, there can be local impacts on communities and wildlife living near datacentres – massive warehouse-like facilities, with 24-7 lighting and the sound of air conditioners continuously running.
+Some communities have taken matters into their own hands, campaigning against giant datacentres proposed in their local area.
+These nondescript buildings are often built in clusters, says Dr Bronwyn Cumbo, a transdisciplinary social researcher at the University of Technology Sydney. Often “it’s an industrial hub” rather than one datacentre, she says.
+“Of course, it’s in their interest to communicate, engage with the community, incorporate local knowledge, think about the local concerns, because they do want to be a good neighbour. But the incentive to be a good neighbour really depends on the company.”
+Cumbo says conversations about the relationship between AI and the physical environment and its social, political, economic implications are coming to a head.
+Raising awareness is important, she says, so communities can think critically and know what questions to ask.
+“There is an inevitability to AI being part of our lives but how it’s part of our lives is something we can definitely control.”
