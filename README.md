@@ -83,7 +83,7 @@
 | **Airbnb Price Prediction** | [![GitHub](https://badges.aleen42.com/src/github.svg)](nlp/End-to-End-Airbnb-Price-Prediction/) |
 | **Spam Email Classification Embedding Vector Database - Faiss, transformers, scikit-learn** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19dM4Ii8vgtHsvM7m5DxDsRQm2NjmEaft?usp=sharing) |
 | **House Price Prediction - RandomizedSearchCV, catboost** | [![GitHub](https://badges.aleen42.com/src/github.svg)](classification_regression/House-Price-Prediction) |
-
+| **Tabular Data Classification - Pytorch** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_Yx-bcMm5oeIGfQ_0LSAswo6r3Y88lrX?usp=sharing) |
 
 ## 📖 *Web Scraping*
 
